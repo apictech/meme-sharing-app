@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="nextMemeButton">#F0D5074F</color>
+    <color name="shareMemeButton">#FFDA7610</color>
+    <color name="white">#FFFFFF</color>
+
+
+</resources>
